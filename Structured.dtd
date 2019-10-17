@@ -1,0 +1,7 @@
+<!ELEMENT company>
+<!ELEMENT personal profile>
+<!ELEMENT name>
+<!ELEMENT social media handle (#PCDATA)>
+<!ATTLIST title (nail technician|hairstylist|esthetician|manager) #REQUIRED>
+<!ELEMENT expertise (#PCDATA)>
+<!ELEMENT type (#PCDATA)>
