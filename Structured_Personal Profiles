@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <company>
   <personalprofile>
-    <name></name>
-    <social media handle></social media handle>
-    <title></title>
+    <name>Kiara Ellis</name>
+    <social media handle>@thenailbarmn</social media handle>
+    <title>Owner</title>
     <expertise>
       <type></type>
-    </expertise>
+      <value>Collaborating with the Beauty Lounge Minneapolis, we have full-time nail technicians providing nail care services equipped with both stationary and mobile stations that will allow hair care clients the opportunity to maximize their appointment time and get both nails and hair done at the same time!
+I’m looking forward to embracing the Twin Cities community and grow into a larger salon space so we can continue to build upon the momentum.
+</value>
+      </value>
   </personalprofile>
 </company>
