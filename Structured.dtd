@@ -5,3 +5,4 @@
 <!ATTLIST title (nail technician|hairstylist|esthetician|manager) #REQUIRED>
 <!ELEMENT expertise (#PCDATA)>
 <!ELEMENT type (#PCDATA)>
+<!ELEMENT value (#PCDATA)>
